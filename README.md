@@ -1,4 +1,4 @@
-# Cloud-IoT-Access-Control-System, Proejct 4 
+# Cloud-IoT-Access-Control-System, Project 4 
 Mandatory project in DAT110 network subject. 
 
 Alarm IOT control system.
