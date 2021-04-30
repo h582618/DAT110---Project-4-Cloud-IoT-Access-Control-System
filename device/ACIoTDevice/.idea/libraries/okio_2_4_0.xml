@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="okio-2.4.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/jar_files (1)/okio-2.4.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jar_files (1)/annotations-13.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jar_files (1)/kotlin-stdlib-1.3.50.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
