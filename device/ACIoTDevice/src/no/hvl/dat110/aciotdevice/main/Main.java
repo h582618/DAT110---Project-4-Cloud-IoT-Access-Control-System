@@ -6,6 +6,7 @@ import javafx.scene.Scene;
 import javafx.scene.layout.HBox;
 import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
+import no.hvl.dat110.aciotdevice.client.RestClient;
 import no.hvl.dat110.aciotdevice.controller.AccessController;
 import no.hvl.dat110.aciotdevice.controller.MicroController;
 import no.hvl.dat110.aciotdevice.pins.IOPins;
